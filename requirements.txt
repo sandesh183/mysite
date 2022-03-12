@@ -14,7 +14,7 @@ importlib-metadata==0.19
 kombu==4.6.4
 localflavor==1.8
 more-itertools==7.2.0
-Pillow==6.1.0
+Pillow==9.0.1
 polib==1.1.0
 psycopg2-binary==2.8.3
 pytz==2019.2
